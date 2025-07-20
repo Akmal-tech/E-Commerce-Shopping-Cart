@@ -1,2 +1,2 @@
-# E-Commerce-Shopping-Cart
+# ECommerceShoppingCart
  A Java console-based e-commerce shopping cart system.
